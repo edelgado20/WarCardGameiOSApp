@@ -1,4 +1,0 @@
-language: objectice-c
-osx_image: xcode9.2
-xcode_project: WarApp.xcodeproj
-
