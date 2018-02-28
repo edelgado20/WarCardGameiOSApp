@@ -42,7 +42,7 @@ class ViewController: UIViewController {
         //Compare the random numbers
         if leftRandomNumber > rightRandomNumber{
             //update score
-            leftScore += 1
+            leftScore -= 1
             
             //update label
             leftScoreLabel.text = String(leftScore)
